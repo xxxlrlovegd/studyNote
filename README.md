@@ -1,0 +1,2 @@
+# studyNote
+check for gaps
